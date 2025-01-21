@@ -22,3 +22,5 @@ Project Outputs*/
 
 # Project hierarchy auto-generated file
 *.PrjPcbStructure
+
+**/Misc/*
